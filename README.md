@@ -10,3 +10,5 @@ Controls of the Game:
 4. To Move in the Downward Direction - Press "s".
 5. To Kick the Object - Press "k".
 6. To see the Inventory - Press "e".
+
+For final product refer- Shwetanshu-Tiwari-Dev/Discover-In-MAZE/Final-Product.
